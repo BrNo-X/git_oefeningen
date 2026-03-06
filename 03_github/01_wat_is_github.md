@@ -1,5 +1,7 @@
 # Wat is Github? github is een service platform
 #memo
+# Wat is Github? github is en Hallaluja
+
 | GitHub is a Git repository hosting service platform |
 |-----------------------------------------------------|
 
