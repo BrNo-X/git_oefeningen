@@ -40,7 +40,7 @@
 * let op: laat een branch niet te lang openstaan om grote conflicten te vermijden 
 * noot: in de realiteit ga je nog extra tussenstappen inbouwen (dev-branch, test-branch) voor je gaat mergen naar je main (of master) branch. Dat is buiten de scope van deze cursus.   
 
-General Brach
+
 
 ---
 [prev](../04_collaboration_tool/05_share_code_between_2_computers.md)
