@@ -1,4 +1,4 @@
-# Wat is Github? 
+# Wat is Github? github is een collaboratieve tool
 
 |GitHub is a Git repository hosting service|
 |---|
