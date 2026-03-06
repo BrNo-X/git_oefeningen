@@ -1,7 +1,7 @@
 # Wat is Github? github is een collaboratieve tool
 
-|GitHub is a Git repository hosting service|
-|---|
+| GitHub is a Git repository hosting service platform |
+|-----------------------------------------------------|
 
 * Dwz: Github is een plaats waar je repositories kan plaatsen zodat je deze kan sharen met je
 teamleden.
