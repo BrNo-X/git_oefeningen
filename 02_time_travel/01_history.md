@@ -1,5 +1,5 @@
 # History: Bekijk al je commits 
-
+------------------HALOOOOOOOOOOOOOOOOOOOOO
 ## In Git Bash: 
 *  met het command "git log" kan je al je commits bekijken
 ```
