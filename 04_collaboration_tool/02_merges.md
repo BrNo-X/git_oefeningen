@@ -59,6 +59,8 @@ Merge branch 'master' of https://github.com/verapeeters-thomasmore/test
 * Je kan in elke clone files aanpassen en committen
 * pull en push werkt dan op dezelfde manier als in een team 
 
+General Branch
+
 ---
 [prev](01_simpele_workflow.md)
 [next](03_conflicten.md)
